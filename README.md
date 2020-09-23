@@ -1,6 +1,10 @@
 ---
 ---
 
+Some new change by Chris
+
+The next line added
+
 # Awesome Modern C++
 
 A collection of resources on modern C++.
